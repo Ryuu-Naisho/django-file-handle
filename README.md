@@ -34,3 +34,6 @@ The project will be available at **127.0.0.1:8000**.
 
 The site is live at **http://somawatvinay.pythonanywhere.com/**
 
+I also published an article on Distribution of Files among Users with Quick Code publication on Medium.com 
+https://medium.com/quick-code/django-distributing-files-among-users-efa729598ba4
+
