@@ -1,5 +1,4 @@
-# Django File Upload 
-![Image](https://github.com/vinaysomawat/django-file-handle/blob/master/fileupload.png)
+# Django File Upload
 
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-2.1-brightgreen.svg)](https://djangoproject.com)
